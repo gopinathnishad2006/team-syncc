@@ -1,3 +1,4 @@
 Login Page
 Button: Login
 Button Style: Primary
+Validation: Email and password required
