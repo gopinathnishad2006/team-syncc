@@ -1,2 +1,3 @@
 Login Page
 Button: Login
+Button Style: Primary
